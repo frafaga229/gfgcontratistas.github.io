@@ -2678,6 +2678,14 @@ body {
     #main .content {
       padding: 1.5rem; } }
 
+#main img {
+  width: 500px;
+  padding: 20px;
+  border: 2px #88BBD6 solid;
+  margin: 5px;
+  background-color: white;
+}
+
 /* Menu */
 #menu {
   background-color: #111111;
